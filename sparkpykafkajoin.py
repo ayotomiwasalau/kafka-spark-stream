@@ -181,7 +181,7 @@ stediRiskScoreDF = customerRiskStreamingDF.join(emailAndBirthYearStreamingDF, ex
 # +--------------------+-----+--------------------+---------+
 #
 # In this JSON Format {"customer":"Santosh.Fibonnaci@test.com","score":"28.5","email":"Santosh.Fibonnaci@test.com","birthYear":"1963"} 
-stediRiskScoreDF.writeStream.outputMode("append").format("console").start().awaitTermination()
+# stediRiskScoreDF.writeStream.outputMode("append").format("console").start().awaitTermination()
 
 stediRiskScoreDF.selectExpr(
         "cast(customer as string) as key",
