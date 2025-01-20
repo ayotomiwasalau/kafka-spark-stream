@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++------------------------+---------+
+|email                   |birthYear|
++------------------------+---------+
+|tommyayonz@gmail.com    |1986     |
+|Larry.Davis@test.com    |1965     |
+|Dan.Fibonnaci@test.com  |1964     |
+|David.Wu@test.com       |1963     |
+|Chris.Jackson@test.com  |1962     |
+|Dan.Harris@test.com     |1961     |
+|Lyn.Jones@test.com      |1960     |
+|Ben.Hansen@test.com     |1959     |
+|Chris.Staples@test.com  |1958     |
+|Sean.Jackson@test.com   |1957     |
+|Jacob.Lincoln@test.com  |1956     |
+|Suresh.Phillips@test.com|1955     |
+|Craig.Spencer@test.com  |1954     |
+|Dan.Jones@test.com      |1953     |
+|Jane.Staples@test.com   |1952     |
+|Danny.Staples@test.com  |1951     |
+|Neeraj.Khatib@test.com  |1950     |
+|Gail.Olson@test.com     |1949     |
+|Gail.Jones@test.com     |1948     |
+|Jacob.Davis@test.com    |1947     |
++------------------------+---------+
+only showing top 20 rows
+

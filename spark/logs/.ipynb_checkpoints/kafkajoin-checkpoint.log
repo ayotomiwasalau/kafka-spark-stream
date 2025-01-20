@@ -1,0 +1,58 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Sean.Fibonnaci@te...|  4.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...|-29.0|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| -1.0|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| 29.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| 21.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| 11.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...|-22.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...|-41.5|Sean.Fibonnaci@te...|     1949|
+|Jacob.Hansen@test...| -3.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -4.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -4.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -3.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -3.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -2.5|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -3.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -5.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -5.5|Jacob.Hansen@test...|     1959|
+|Chris.Jefferson@t...| -0.5|Chris.Jefferson@t...|     1942|
+|Chris.Jefferson@t...|-15.0|Chris.Jefferson@t...|     1942|
+|Chris.Jefferson@t...| -7.5|Chris.Jefferson@t...|     1942|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Sean.Fibonnaci@te...| -4.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| 37.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| 25.5|Sean.Fibonnaci@te...|     1949|
+|Sean.Fibonnaci@te...| -3.0|Sean.Fibonnaci@te...|     1949|
+|Jacob.Hansen@test...| -4.5|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -3.0|Jacob.Hansen@test...|     1959|
+|Jacob.Hansen@test...| -2.0|Jacob.Hansen@test...|     1959|
+|Chris.Jefferson@t...| -2.5|Chris.Jefferson@t...|     1942|
+|Chris.Jefferson@t...|-18.5|Chris.Jefferson@t...|     1942|
+|Chris.Jefferson@t...|  1.5|Chris.Jefferson@t...|     1942|
+| David.Huey@test.com|  3.5| David.Huey@test.com|     1943|
+| David.Huey@test.com| -3.0| David.Huey@test.com|     1943|
+| David.Huey@test.com|-23.0| David.Huey@test.com|     1943|
+|Santosh.Ahmed@tes...| -2.0|Santosh.Ahmed@tes...|     1950|
+|Santosh.Ahmed@tes...| -2.0|Santosh.Ahmed@tes...|     1950|
+|Santosh.Ahmed@tes...| -3.0|Santosh.Ahmed@tes...|     1950|
+|Santosh.Ahmed@tes...| -3.5|Santosh.Ahmed@tes...|     1950|
+|Bobby.Olson@test.com| 15.5|Bobby.Olson@test.com|     1947|
+|   Larry.Wu@test.com| 47.0|   Larry.Wu@test.com|     1961|
+|Bobby.Olson@test.com| -7.0|Bobby.Olson@test.com|     1947|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
